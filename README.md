@@ -1,12 +1,12 @@
 # 2021_IBM_Code_Challenge_paymentweb
 Electricity bill payment for elderly people
 
-CONTRIBUTORS :
+CONTRIBUTORS :<br/>
 Adithya TS <br/>
-Amrita J
-Anjana Anil
-Anusha Nair
-Rimitha Shajahan
+Amrita J<br/>
+Anjana Anil<br/>
+Anusha Nair<br>
+Rimitha Shajahan<br/>
 
 COLLEGE : LBS INSTITUTE OF TECHNOLOGY FOR WOMEN, TRIVANDRUM 
 

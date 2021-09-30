@@ -17,6 +17,7 @@ PROBLEM STATEMENT : Increased dependency on youngsters and adoloscents  for maki
                    
 PERSONA : Elderly people
 
-ARCHITECTURE : 
+
+
 
 

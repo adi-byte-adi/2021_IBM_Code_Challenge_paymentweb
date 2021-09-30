@@ -20,7 +20,7 @@ PERSONA : Elderly people
 
 ARCHITECTURE: <BR/>
 
-![image_1.png](src/ibm_flowchart.jpg)
+![image_1.png](src/ibm_flowchart.png)
 
 
 

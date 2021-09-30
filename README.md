@@ -10,10 +10,11 @@ Rimitha Shajahan<br/>
 
 COLLEGE : LBS INSTITUTE OF TECHNOLOGY FOR WOMEN, TRIVANDRUM 
 
-PROBLEM STATEMENT : Increased dependency on youngsters and adoloscents  for making payments.
-                   Small font size and icon size.
-                   Background contrast unsuitable for the eyes of elderly population.
-                   No proper guidance for making e-payment.
+PROBLEM STATEMENT : 
+Increased dependency on youngsters and adoloscents  for making payments.<br/>
+Small font size and icon size.<br/>
+Background contrast unsuitable for the eyes of elderly population.<br/>
+No proper guidance for making e-payment.<br/>
                    
 PERSONA : Elderly people
 

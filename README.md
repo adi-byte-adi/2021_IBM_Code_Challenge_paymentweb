@@ -2,7 +2,7 @@
 Electricity bill payment for elderly people
 
 CONTRIBUTORS :
-Adithya TS
+Adithya TS <br/>
 Amrita J
 Anjana Anil
 Anusha Nair

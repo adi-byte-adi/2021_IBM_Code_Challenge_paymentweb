@@ -18,6 +18,10 @@ No proper guidance for making e-payment.<br/>
                    
 PERSONA : Elderly people
 
+ARCHITECTURE: <BR/>
+
+![image_1.png](src/ibm_flowchart.jpg)
+
 
 
 

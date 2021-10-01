@@ -1,7 +1,7 @@
 # 2021_IBM_Code_Challenge_paymentweb
 Easy to use Electricity bill payment website application for elderly people
 
-### **CONTRIBUTORS :**<br/>
+##### **CONTRIBUTORS :**<br/>
 Adithya TS <br/>
 Amrita J<br/>
 Anjana Anil<br/>

@@ -8,7 +8,8 @@ Anjana Anil<br/>
 Anusha Nair<br>
 Rimitha Shajahan<br/>
 
-#### **COLLEGE :** LBS INSTITUTE OF TECHNOLOGY FOR WOMEN, TRIVANDRUM 
+#### **COLLEGE :** 
+LBS INSTITUTE OF TECHNOLOGY FOR WOMEN, TRIVANDRUM 
 
 #### **PROBLEM STATEMENT :** <br/>
  * Increased dependency on youngsters and adoloscents  for making payments.<br/>

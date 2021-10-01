@@ -12,9 +12,9 @@ Rimitha Shajahan<br/>
 
 #### **PROBLEM STATEMENT :** <br/>
  * Increased dependency on youngsters and adoloscents  for making payments.<br/>
-Small font size and icon size.<br/>
-Background contrast unsuitable for the eyes of elderly population.<br/>
-No proper guidance for making e-payment.<br/>
+ * Small font size and icon size.<br/>
+ * Background contrast unsuitable for the eyes of elderly population.<br/>
+ * No proper guidance for making e-payment.<br/>
                    
 #### **PERSONA :** Elderly people
 
